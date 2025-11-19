@@ -1,9 +1,3 @@
-I'll help you find the connection between `rma_requests` and order details through the `ondc_order_id`.
-
-[3 tools called]
-
-Perfect! I found the connection. Here's what I discovered:
-
 ## Connection Path
 
 **`rma_requests.ondc_order_id` → `orders.ondc_order_id` → `orders.id`**
